@@ -13,7 +13,7 @@ bring everything back.
 
 | Project | What it is | Download |
 |---|---|---|
-| [**Fugueti Launcher**](https://github.com/victorwalter/fugueti-launcher) | The launcher. Stable line on Android 16, nightly on Android 17. | [Latest release](https://github.com/victorwalter/fugueti-launcher/releases/latest) |
+| [**Fugueti Launcher**](https://github.com/fugueti/launcher) | The launcher. Stable line on Android 16, nightly on Android 17. | [Latest release](https://github.com/fugueti/launcher/releases/latest) |
 | [**Fugueti Feed**](https://github.com/fugueti/feed) | Small companion app that connects the Google feed (Discover) to Fugueti. | [Latest release](https://github.com/fugueti/feed/releases/latest) |
 
 **Links:** [fugueti.app](https://fugueti.app) · [X @fuguetiapp](https://x.com/fuguetiapp) ·
