@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: E-mail support
+    url: mailto:hello@fugueti.app
+    about: Questions or anything that is not a bug report or a feature idea.
+  - name: Security vulnerability
+    url: https://github.com/fugueti/.github/blob/main/SECURITY.md
+    about: Please report security problems privately, not as an issue.
